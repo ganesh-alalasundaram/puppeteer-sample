@@ -24,6 +24,6 @@ npm run test
 
 
 ###### Credits:
-https://github.com/americanexpress/jest-image-snapshot
-https://github.com/GoogleChrome/puppeteer
-https://www.udemy.com/automated-headless-browser-testing-with-puppeteer/
+https://github.com/americanexpress/jest-image-snapshot <br/>
+https://github.com/GoogleChrome/puppeteer <br/>
+https://www.udemy.com/automated-headless-browser-testing-with-puppeteer/ <br/>
